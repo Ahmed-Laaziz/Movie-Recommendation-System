@@ -38,4 +38,4 @@ If you have any questions or would like to learn more about our project, please 
 
 ---
 
-⭐ Don't forget to star this repository if you find it helpful! ⭐
+<div align="center">⭐ Don't forget to star this repository if you find it helpful! ⭐</div>
