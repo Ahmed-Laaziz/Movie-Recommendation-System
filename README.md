@@ -1,9 +1,12 @@
-# Movie Recommendation Website 🎥🌟
+<div align="center">
+  <h1>Movie Recommendation Website 🎥🌟</h1>
+</div>
 
-I am thrilled to share the successful completion of our Big Data & NoSQL module's final project, the "Movie Recommendation Website"! Under the expert guidance of Mr. Mohamed Hanine, we embarked on an incredible journey to create a platform that provides personalized movie recommendations.
+<p>I am thrilled to share the successful completion of our Big Data & NoSQL module's final project, the "Movie Recommendation Website"! Under the expert guidance of Mr. Mohamed Hanine, we embarked on an incredible journey to create a platform that provides personalized movie recommendations.</p>
 
-<img src="https://i.ibb.co/hDhJT0F/Screenshot-2023-09-05-205414.png" alt="Screenshot-2023-09-05-205414" border="0">
-
+<div align="center">
+  <img src="https://i.ibb.co/hDhJT0F/Screenshot-2023-09-05-205414.png" alt="Screenshot-2023-09-05-205414" border="0">
+</div>
 ## Demo
 <a href="https://www.linkedin.com/posts/ahmed-laaziz-4b2168218_python-neo4j-database-activity-7071087011943567360-1Ou7?utm_source=share&utm_medium=member_desktop">video demonstration</a>
 
@@ -28,7 +31,7 @@ We extend our sincere gratitude to Mr. Mohamed Hanine for his invaluable guidanc
 ## Contact
 If you have any questions or would like to learn more about our project, please feel free to reach out:
 
-- [Your Name] (mailto:your.email@example.com) - [LinkedIn](your-linkedin-profile-link)
+- [Your Name] (mailto:laazizahmed72@gmail.com) - [LinkedIn]([your-linkedin-profile-link](https://www.linkedin.com/in/ahmed-laaziz-4b2168218/))
 
 ---
 
