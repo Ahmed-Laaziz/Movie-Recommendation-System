@@ -2,7 +2,7 @@
   <h1>Movie Recommendation Website 🎥🌟</h1>
 </div>
 
-<p>I am thrilled to share the successful completion of our Big Data & NoSQL module's final project, the "Movie Recommendation Website"! Under the expert guidance of Mr. Mohamed Hanine, we embarked on an incredible journey to create a platform that provides personalized movie recommendations.</p>
+<p align="center">I am thrilled to share the successful completion of our Big Data & NoSQL module's final project, the "Movie Recommendation Website"! Under the expert guidance of Mr. Mohamed Hanine, we embarked on an incredible journey to create a platform that provides personalized movie recommendations.</p>
 
 <div align="center">
   <img src="https://i.ibb.co/hDhJT0F/Screenshot-2023-09-05-205414.png" alt="Screenshot-2023-09-05-205414" border="0">
