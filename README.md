@@ -34,7 +34,7 @@ We extend our sincere gratitude to Mr. Mohamed Hanine for his invaluable guidanc
 ## Contact
 If you have any questions or would like to learn more about our project, please feel free to reach out:
 
-- [Your Name] (mailto:laazizahmed72@gmail.com) - [LinkedIn]([your-linkedin-profile-link](https://www.linkedin.com/in/ahmed-laaziz-4b2168218/))
+- [Ahmed Laaziz] (mailto:laazizahmed72@gmail.com) - [LinkedIn]([your-linkedin-profile-link](https://www.linkedin.com/in/ahmed-laaziz-4b2168218/))
 
 ---
 
